@@ -11,3 +11,6 @@ A Natural Language Processing with SMS Spam Data with various ML Algorithms like
 
 ## 📧Contact:-
 For any kind of suggesstions/ help in models code Please mail me at ksdkamesh99@gmail.com.
+
+## 📜 LICENSE
+[MIT](https://github.com/ksdkamesh99/Spam-Classifier/blob/master/LICENSE)
