@@ -12,8 +12,8 @@ A Natural Language Processing with SMS Data to predict whether the SMS is Spam/H
 
 ## ✔✔ Accuracy ✔✔:-
 | Text Preprocessing Type              | Logistic Regression | Multinomial NB | Support Vector Machine  | Decision Tree |
-|--------------------------------------|---------------------|---------------------|-------------------------|---------------|
-| TFIDF Vectorizer + PorterStemmer     | %              | %              | %                  | %        |
+|--------------------------------------|---------------------|----------------|-------------------------|---------------|
+| TFIDF Vectorizer + PorterStemmer     | 96.68%              | 97.30%         | 98.47%                  | 96.68%        |
 | CountVectorizer + PorterStemmer      | %              | %              | %                  | %        |
 | CountVectorizer + WordnetLemmatizer  | %              | %              | %                  | %        |
 | TFIDF Vectorizer + WordnetLemmatizer | %              | %              | %                  | %        |
