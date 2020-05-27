@@ -15,7 +15,7 @@ A Natural Language Processing with SMS Data to predict whether the SMS is Spam/H
 |--------------------------------------|---------------------|----------------|-------------------------|---------------|
 | TFIDF Vectorizer + PorterStemmer     | 96.68%              | 97.30%         | 98.47%                  | 96.68%        |
 | CountVectorizer + PorterStemmer      | 98.65%              | 98.56%         | 98.74%                  | 97.84%        |
-| CountVectorizer + WordnetLemmatizer  | %              | %              | %                  | %        |
+| CountVectorizer + WordnetLemmatizer  | 98.56%              | 98.29%         | 98.38%                  | 97.75%        |
 | TFIDF Vectorizer + WordnetLemmatizer | 96.41%              | 97.48%         | 98.47%                  | 96.86%        |
 
 
